@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcome to my home page. Take a look around, I am still adding new things weekly.
