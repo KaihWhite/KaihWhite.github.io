@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-<img style="float: right" width="200" src="Headshot.jpeg" >
-
 Hello, My name is Kaih White. I am a current student at the Colorado school of Mines
 studying Computer Science. I am currently studying algorithms and advanced topics such
 as Machine Learning and Deep Machine Learning. I enjoy working in the realms of robotics,
