@@ -6,3 +6,11 @@ layout: home
 ---
 
 Welcome to my home page. Take a look around, I am still adding new things weekly.
+
+![A picture of me](/assets/Headshot.jpeg){: width="250" }
+
+A couple of quick facts about me: 
+	I am always eager to learn, constantly challenging myself,
+	always looking for opportunitys to grow and expand what I know, 
+	and a Computer Science major.
+	
