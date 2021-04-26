@@ -17,5 +17,7 @@ If you think that I may be a good fit, please feel free to contact me.
 Contact Info:
 
 email - kaihgwhite@outlook.com
+
 LinkedIn - https://www.linkedin.com/in/kaihwhite/
+
 GitHub - https://github.com/KaihWhite
