@@ -7,7 +7,7 @@ layout: home
 
 Welcome to my home page. Take a look around, I am still adding new things weekly.
 
-<img align="right" src="Headshot.jpeg" width="200">
+<img align="right" width="100" height="200" src="Headshot.jpeg" >
 
 A couple of quick facts about me: 
 	I am always eager to learn, constantly challenging myself,
