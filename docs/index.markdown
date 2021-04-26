@@ -7,12 +7,6 @@ layout: home
 
 Welcome to my home page. Take a look around, I am still adding new things weekly.
 
-<img style="float: right" width="200" src="Headshot.jpeg" >
- 
- 
- 
- 
- 
  
 
 A couple of quick facts about me: 
