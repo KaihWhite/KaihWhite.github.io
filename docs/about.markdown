@@ -16,10 +16,4 @@ If you think that I may be a good fit, please feel free to contact me.
 
 ![A picture of me](/assets/Headshot.jpeg)
 
-Contact Info:
-
-email - kaihgwhite@outlook.com
-
-LinkedIn - https://www.linkedin.com/in/kaihwhite/
-
-GitHub - https://github.com/KaihWhite
+Contact info below.
