@@ -14,4 +14,6 @@ enthusiasm as they are just chances for me to learn new things and grow. I am lo
 internships that can give me the opportunity to work on a team and solve real world issues.
 If you think that I may be a good fit, please feel free to contact me.
 
+![I like to challenge myself](/assets/Kaih_Flying.JPEG){: }
+
 Contact info below.
