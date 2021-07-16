@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Welcome to my home page. Take a look around, I am still adding new things weekly.
+Welcome to my home page. Take a look around, this is still a work in progress.
 
 <img style="float: right" width="200" src="Headshot.jpeg" >
 
