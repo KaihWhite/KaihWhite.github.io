@@ -12,5 +12,5 @@ Welcome to my home page. Take a look around, this is still a work in progress.
 A couple of quick facts about me: 
 I am always eager to learn, constantly challenging myself,
 looking for opportunities to grow and expand what I know, 
-and a Computer Science major at Colorado School of Mines.
+and a Computer Science major at Bellevue College.
 	
