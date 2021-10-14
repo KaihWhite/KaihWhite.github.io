@@ -5,12 +5,17 @@
 layout: home
 ---
 
-Welcome to my home page. Take a look around, this is still a work in progress.
+Welcome to my home page. Take a look around.
 
 <img style="float: right" width="200" src="Headshot.jpeg" >
 
-A couple of quick facts about me: 
-I am always eager to learn, constantly challenging myself,
-looking for opportunities to grow and expand what I know, 
-and a Computer Science major at Bellevue College.
+My name is Kaih White. I am a current student at Bellevue College who is pursuing a degree
+in Computer Science. I am also an instructor working with Coding with Kids to help educate
+the next generation of programmers. When it comes to educating myself, I am particularly 
+interested in learning about data science and machine learning. The reason I like these topics
+is because I see so much potential in solving real world problems with the application of these 
+fields.
+
+I am actively seeking challenging opportunities and internships where problem solving and 
+collaboration are valued. I am quick to learn new concepts and programs.
 	
