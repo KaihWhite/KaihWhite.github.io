@@ -4,6 +4,6 @@ title: "Resume"
 permalink: /resume/
 ---
 
-<img style="float: center" width="2000" src="docs/resume.jpg" >
+<img style="float: right" width="200" src="resume.jpg" >
 
 Download [my resume](/assets/Kaih_White_resume.pdf) Here.
